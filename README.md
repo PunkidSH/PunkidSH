@@ -1,5 +1,5 @@
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Punkid's%20포트폴리오&fontAlign=30&fontAlignY=40&color=gradient&fontSize=40&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Punkid's%20Portfolio&fontAlign=30&fontAlignY=40&color=gradient&fontSize=40&section=header" />
 
 # 사용언어
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjun0318&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
