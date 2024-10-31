@@ -19,7 +19,7 @@
 >>> [프로젝트 상세보기](https://github.com/PunkidSH/bitc-second-project)<br>
 
 
-3. QRCheckManager
+3. QR Event Check Manager
 > QR코드 기반 단체 주도 행사 관리 및 출석체크 관리 시스템
 >> 프로젝트 기간 : 2024.10.02 ~ 2024.10.24 <br>
 >> 담당역할 : 팀장, 팀 기초 개발환경 세팅 및 배포, ERD 기초설계, React Web 연동 Back-End 구축, React Front-End 참석자 관리 및 각종 검색기능 제작
